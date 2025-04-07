@@ -31,12 +31,12 @@ export default function Home() {
               <Typography variant="subtitle2" marginTop={4}>
                 With a solid background in backend development, DevOps, and
                 cloud deployment on Azure, I enjoy owning projects from concept
-                to deployment. I’m comfortable working across the stack — from
+                to deployment. Im comfortable working across the stack — from
                 designing RESTful APIs and managing databases to crafting
                 responsive, interactive frontends.
               </Typography>
               <Typography variant="subtitle2" marginTop={4} marginBottom={10}>
-                Outside of code, I’m an active runner training for marathons,
+                Outside of code, Im an active runner training for marathons,
                 balancing the same discipline and consistency I bring to
                 software development.
               </Typography>
