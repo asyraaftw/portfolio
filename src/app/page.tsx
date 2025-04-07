@@ -1,25 +1,8 @@
-import Image from "next/image";
-import styles from "./page.module.css";
 import AppAppBar from "@/components/AppAppBar";
-import CTimeline from "@/components/CTimeline";
-import {
-  Box,
-  Card,
-  CardActionArea,
-  CardContent,
-  CardMedia,
-  Container,
-  Grid,
-  IconButton,
-  Link,
-  ListItem,
-  Paper,
-  Skeleton,
-  styled,
-  Typography,
-} from "@mui/material";
 import CContainer from "@/components/CContainer";
 import CImageList from "@/components/CImageList";
+import CTimeline from "@/components/CTimeline";
+import { Grid, Typography } from "@mui/material";
 
 export default function Home() {
   return (
