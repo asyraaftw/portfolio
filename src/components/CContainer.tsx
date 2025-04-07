@@ -17,7 +17,7 @@ export default function CContainer({ children }: Props) {
         <Box
           sx={{
             bgcolor: "#171622",
-            height: "100vh",
+            height: "100%",
             width: "100%",
             position: "relative", // optional, useful for absolute children
           }}
