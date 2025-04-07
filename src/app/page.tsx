@@ -22,11 +22,11 @@ export default function Home() {
           >
             <Grid size={8} color={"#ffffff"}>
               <Typography variant="subtitle2" marginTop={4}>
-                I'm a passionate Full Stack Developer with experience in
-                building scalable and maintainable applications using Node.js,
-                .NET, React, and PostgreSQL. I thrive in dynamic environments
-                where I can solve real-world problems through clean, efficient
-                code and intuitive UI/UX.
+                Im a passionate Full Stack Developer with experience in building
+                scalable and maintainable applications using Node.js, .NET,
+                React, and PostgreSQL. I thrive in dynamic environments where I
+                can solve real-world problems through clean, efficient code and
+                intuitive UI/UX.
               </Typography>
               <Typography variant="subtitle2" marginTop={4}>
                 With a solid background in backend development, DevOps, and
