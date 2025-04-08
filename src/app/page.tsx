@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <AppAppBar color="#171622" />
       <CContainer>
-        <Grid container marginLeft={10} marginRight={10}>
+        <Grid container marginLeft={20} marginRight={20}>
           <Grid
             size={7}
             sx={{
