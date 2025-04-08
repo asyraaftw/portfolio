@@ -1,6 +1,6 @@
-# Portfolio
+## Portfolio
 
-## Bootstrapped with next.js and mui
+- Bootstrapped with next.js and mui
 
 ## Getting started
 
@@ -8,6 +8,9 @@
 
 ```
 npm/yarn/pnpm run dev
+npm/yarn/pnpm run build
+npm/yarn/pnpm run start
+npm/yarn/pnpm run lint 
 ```
 
 - look up in `package.json` for scripts
